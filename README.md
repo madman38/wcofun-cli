@@ -1,5 +1,9 @@
 # wcofun-cli
 
+> [!WARNING]
+> wcofun-cli is no longer being maintained.
+> Thanks to everyone who used it! If you’re looking for something similar, check out [wco-dl](https://github.com/madman38/wco-dl). It is the new and better version of wcofun-cli.
+
 wcofun-cli is a tool to download cartoons from [WCOfun](https://www.wcofun.net/). This tool automates the process of fetching and downloading episodes for offline viewing.
 
 ## Setup and Installation
